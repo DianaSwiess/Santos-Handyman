@@ -60,7 +60,7 @@ body{
 	background-image:url(../img/ideas.jpg); 
 	background-repeat:no-repeat; 
 	background-position:left;
-	margin-top:5px; 
+	margin-top:0px; 
 	float:left;
 	box-sizing: border-box;	
 }
@@ -183,7 +183,7 @@ font-size: 20px;
     font-family:serif;
 }
  h3{
-font-size: 25px;
+font-size: 20px;
     color:#ffffff;
     font-family: sans-serif;
  } 
