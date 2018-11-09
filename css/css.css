@@ -43,7 +43,7 @@ body{
 
 .aside:before {
     content:"";
-    width:78%;
+    width:76%;
     height:220px;
     background-color:green;
     position: absolute; /*importante para poder ver el color sobre la imagen*/
@@ -73,7 +73,7 @@ body{
 
 
 .block{
-	width:45%;
+	width:50%;
 	height:700px;
 	background-image:url(../img/imagen001.jpg); 
 	background-repeat: no-repeat;
@@ -81,7 +81,9 @@ body{
 	align-items: center;
 	justify-content: center;
 	padding: 20px;
-	margin-top:20px;
+	margin-top:0px;
+	display:flex;
+        flex-direction: column;
 	float:right;
 	box-sizing: border-box;
 }
