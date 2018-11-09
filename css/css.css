@@ -3,7 +3,7 @@
 	margin: 0px;
 }
 body{
-	background-color:#FFFAFA;
+	background-color:#D3D3D3;
 	box-sizing: border-box;
 	justify-content: center;
 }
@@ -43,11 +43,11 @@ body{
 
 .aside:before {
     content:"";
-    width:80%;
+    width:78%;
     height:220px;
     background-color:green;
     position: absolute; /*importante para poder ver el color sobre la imagen*/
-    opacity: 0.3;
+    opacity: 0.4;
     margin-right:100px; 
     margin-left: 20px;
     box-sizing: border-box;
