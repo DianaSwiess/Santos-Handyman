@@ -43,8 +43,8 @@ body{
 
 .aside:before {
     content:"";
-    width:70%;
-    height:180px;
+    width:80%;
+    height:220px;
     background-color:green;
     position: absolute; /*importante para poder ver el color sobre la imagen*/
     opacity: 0.3;
