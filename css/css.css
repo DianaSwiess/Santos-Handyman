@@ -130,6 +130,7 @@ h4{
 #footer {
 position: relative;/* Altura total del footer en px con valor negativo */
 background:#2E8B57;
+padding:5px;
 text-align:center; 
 color:white;
 float:left; 
